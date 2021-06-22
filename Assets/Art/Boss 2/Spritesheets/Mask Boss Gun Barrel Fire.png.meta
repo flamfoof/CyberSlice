@@ -1,0 +1,1908 @@
+fileFormatVersion: 2
+guid: 03c05a89344006f4eb555a894dcd3e03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Mask Boss Gun Barrel Fire_0
+  - first:
+      213: 21300002
+    second: Mask Boss Gun Barrel Fire_1
+  - first:
+      213: 21300004
+    second: Mask Boss Gun Barrel Fire_2
+  - first:
+      213: 21300006
+    second: Mask Boss Gun Barrel Fire_3
+  - first:
+      213: 21300008
+    second: Mask Boss Gun Barrel Fire_4
+  - first:
+      213: 21300010
+    second: Mask Boss Gun Barrel Fire_5
+  - first:
+      213: 21300012
+    second: Mask Boss Gun Barrel Fire_6
+  - first:
+      213: 21300014
+    second: Mask Boss Gun Barrel Fire_7
+  - first:
+      213: 21300016
+    second: Mask Boss Gun Barrel Fire_8
+  - first:
+      213: 21300018
+    second: Mask Boss Gun Barrel Fire_9
+  - first:
+      213: 21300020
+    second: Mask Boss Gun Barrel Fire_10
+  - first:
+      213: 21300022
+    second: Mask Boss Gun Barrel Fire_11
+  - first:
+      213: 21300024
+    second: Mask Boss Gun Barrel Fire_12
+  - first:
+      213: 21300026
+    second: Mask Boss Gun Barrel Fire_13
+  - first:
+      213: 21300028
+    second: Mask Boss Gun Barrel Fire_14
+  - first:
+      213: 21300030
+    second: Mask Boss Gun Barrel Fire_15
+  - first:
+      213: 21300032
+    second: Mask Boss Gun Barrel Fire_16
+  - first:
+      213: 21300034
+    second: Mask Boss Gun Barrel Fire_17
+  - first:
+      213: 21300036
+    second: Mask Boss Gun Barrel Fire_18
+  - first:
+      213: 21300038
+    second: Mask Boss Gun Barrel Fire_19
+  - first:
+      213: 21300040
+    second: Mask Boss Gun Barrel Fire_20
+  - first:
+      213: 21300042
+    second: Mask Boss Gun Barrel Fire_21
+  - first:
+      213: 21300044
+    second: Mask Boss Gun Barrel Fire_22
+  - first:
+      213: 21300046
+    second: Mask Boss Gun Barrel Fire_23
+  - first:
+      213: 21300048
+    second: Mask Boss Gun Barrel Fire_24
+  - first:
+      213: 21300050
+    second: Mask Boss Gun Barrel Fire_25
+  - first:
+      213: 21300052
+    second: Mask Boss Gun Barrel Fire_26
+  - first:
+      213: 21300054
+    second: Mask Boss Gun Barrel Fire_27
+  - first:
+      213: 21300056
+    second: Mask Boss Gun Barrel Fire_28
+  - first:
+      213: 21300058
+    second: Mask Boss Gun Barrel Fire_29
+  - first:
+      213: 21300060
+    second: Mask Boss Gun Barrel Fire_30
+  - first:
+      213: 21300062
+    second: Mask Boss Gun Barrel Fire_31
+  - first:
+      213: 21300064
+    second: Mask Boss Gun Barrel Fire_32
+  - first:
+      213: 21300066
+    second: Mask Boss Gun Barrel Fire_33
+  - first:
+      213: 21300068
+    second: Mask Boss Gun Barrel Fire_34
+  - first:
+      213: 21300070
+    second: Mask Boss Gun Barrel Fire_35
+  - first:
+      213: 21300072
+    second: Mask Boss Gun Barrel Fire_36
+  - first:
+      213: 21300074
+    second: Mask Boss Gun Barrel Fire_37
+  - first:
+      213: 21300076
+    second: Mask Boss Gun Barrel Fire_38
+  - first:
+      213: 21300078
+    second: Mask Boss Gun Barrel Fire_39
+  - first:
+      213: 21300080
+    second: Mask Boss Gun Barrel Fire_40
+  - first:
+      213: 21300082
+    second: Mask Boss Gun Barrel Fire_41
+  - first:
+      213: 21300084
+    second: Mask Boss Gun Barrel Fire_42
+  - first:
+      213: 21300086
+    second: Mask Boss Gun Barrel Fire_43
+  - first:
+      213: 21300088
+    second: Mask Boss Gun Barrel Fire_44
+  - first:
+      213: 21300090
+    second: Mask Boss Gun Barrel Fire_45
+  - first:
+      213: 21300092
+    second: Mask Boss Gun Barrel Fire_46
+  - first:
+      213: 21300094
+    second: Mask Boss Gun Barrel Fire_47
+  - first:
+      213: 21300096
+    second: Mask Boss Gun Barrel Fire_48
+  - first:
+      213: 21300098
+    second: Mask Boss Gun Barrel Fire_49
+  - first:
+      213: 21300100
+    second: Mask Boss Gun Barrel Fire_50
+  - first:
+      213: 21300102
+    second: Mask Boss Gun Barrel Fire_51
+  - first:
+      213: 21300104
+    second: Mask Boss Gun Barrel Fire_52
+  - first:
+      213: 21300106
+    second: Mask Boss Gun Barrel Fire_53
+  - first:
+      213: 21300108
+    second: Mask Boss Gun Barrel Fire_54
+  - first:
+      213: 21300110
+    second: Mask Boss Gun Barrel Fire_55
+  - first:
+      213: 21300112
+    second: Mask Boss Gun Barrel Fire_56
+  - first:
+      213: 21300114
+    second: Mask Boss Gun Barrel Fire_57
+  - first:
+      213: 21300116
+    second: Mask Boss Gun Barrel Fire_58
+  - first:
+      213: 21300118
+    second: Mask Boss Gun Barrel Fire_59
+  - first:
+      213: 21300120
+    second: Mask Boss Gun Barrel Fire_60
+  - first:
+      213: 21300122
+    second: Mask Boss Gun Barrel Fire_61
+  - first:
+      213: 21300124
+    second: Mask Boss Gun Barrel Fire_62
+  - first:
+      213: 21300126
+    second: Mask Boss Gun Barrel Fire_63
+  - first:
+      213: 21300128
+    second: Mask Boss Gun Barrel Fire_64
+  - first:
+      213: 21300130
+    second: Mask Boss Gun Barrel Fire_65
+  - first:
+      213: 21300132
+    second: Mask Boss Gun Barrel Fire_66
+  - first:
+      213: 21300134
+    second: Mask Boss Gun Barrel Fire_67
+  - first:
+      213: 21300136
+    second: Mask Boss Gun Barrel Fire_68
+  - first:
+      213: 21300138
+    second: Mask Boss Gun Barrel Fire_69
+  - first:
+      213: 21300140
+    second: Mask Boss Gun Barrel Fire_70
+  - first:
+      213: 21300142
+    second: Mask Boss Gun Barrel Fire_71
+  - first:
+      213: 21300144
+    second: Mask Boss Gun Barrel Fire_72
+  - first:
+      213: 21300146
+    second: Mask Boss Gun Barrel Fire_73
+  - first:
+      213: 21300148
+    second: Mask Boss Gun Barrel Fire_74
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_0
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 7519
+        width: 851
+        height: 659
+      alignment: 9
+      pivot: {x: 0.5085602, y: 0.48452467}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_1
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 7530
+        width: 866
+        height: 646
+      alignment: 9
+      pivot: {x: 0.5117768, y: 0.47519138}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_2
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 7531
+        width: 870
+        height: 631
+      alignment: 9
+      pivot: {x: 0.5066987, y: 0.48614627}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_3
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 7534
+        width: 868
+        height: 620
+      alignment: 9
+      pivot: {x: 0.5093148, y: 0.49130625}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_4
+      rect:
+        serializedVersion: 2
+        x: 3518
+        y: 7535
+        width: 882
+        height: 615
+      alignment: 9
+      pivot: {x: 0.50235975, y: 0.49323314}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_5
+      rect:
+        serializedVersion: 2
+        x: 4426
+        y: 7536
+        width: 888
+        height: 606
+      alignment: 9
+      pivot: {x: 0.5046871, y: 0.49484888}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_6
+      rect:
+        serializedVersion: 2
+        x: 5344
+        y: 7546
+        width: 898
+        height: 588
+      alignment: 9
+      pivot: {x: 0.5053749, y: 0.4924665}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_7
+      rect:
+        serializedVersion: 2
+        x: 6286
+        y: 7549
+        width: 900
+        height: 577
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50189304}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_8
+      rect:
+        serializedVersion: 2
+        x: 7231
+        y: 7550
+        width: 914
+        height: 568
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50384694}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_9
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 6894
+        width: 919
+        height: 562
+      alignment: 9
+      pivot: {x: 0.49875754, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_10
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 6894
+        width: 918
+        height: 562
+      alignment: 9
+      pivot: {x: 0.49751258, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_11
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 6894
+        width: 918
+        height: 560
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_12
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 6894
+        width: 908
+        height: 562
+      alignment: 9
+      pivot: {x: 0.49314767, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_13
+      rect:
+        serializedVersion: 2
+        x: 4047
+        y: 6895
+        width: 913
+        height: 561
+      alignment: 9
+      pivot: {x: 0.48662868, y: 0.5048358}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_14
+      rect:
+        serializedVersion: 2
+        x: 5074
+        y: 6896
+        width: 892
+        height: 560
+      alignment: 9
+      pivot: {x: 0.48479322, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_15
+      rect:
+        serializedVersion: 2
+        x: 6094
+        y: 6896
+        width: 880
+        height: 561
+      alignment: 9
+      pivot: {x: 0.4784202, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_16
+      rect:
+        serializedVersion: 2
+        x: 7098
+        y: 6902
+        width: 880
+        height: 552
+      alignment: 9
+      pivot: {x: 0.47794023, y: 0.49023172}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 6206
+        width: 898
+        height: 548
+      alignment: 9
+      pivot: {x: 0.47701013, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_18
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 6206
+        width: 898
+        height: 552
+      alignment: 9
+      pivot: {x: 0.48938927, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_19
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 6206
+        width: 899
+        height: 552
+      alignment: 9
+      pivot: {x: 0.48233524, y: 0.50287664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_20
+      rect:
+        serializedVersion: 2
+        x: 2943
+        y: 6207
+        width: 899
+        height: 551
+      alignment: 9
+      pivot: {x: 0.48940092, y: 0.49711728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_21
+      rect:
+        serializedVersion: 2
+        x: 3936
+        y: 6208
+        width: 897
+        height: 550
+      alignment: 9
+      pivot: {x: 0.48583657, y: 0.49711204}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_22
+      rect:
+        serializedVersion: 2
+        x: 4942
+        y: 6207
+        width: 884
+        height: 551
+      alignment: 9
+      pivot: {x: 0.47484964, y: 0.49711728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_23
+      rect:
+        serializedVersion: 2
+        x: 5935
+        y: 6207
+        width: 883
+        height: 551
+      alignment: 9
+      pivot: {x: 0.4802166, y: 0.49423546}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_24
+      rect:
+        serializedVersion: 2
+        x: 6919
+        y: 6207
+        width: 887
+        height: 551
+      alignment: 9
+      pivot: {x: 0.48030582, y: 0.49711728}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 5530
+        width: 897
+        height: 550
+      alignment: 9
+      pivot: {x: 0.4802458, y: 0.4801731}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_26
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 5502
+        width: 894
+        height: 578
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_27
+      rect:
+        serializedVersion: 2
+        x: 1982
+        y: 5486
+        width: 898
+        height: 594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_28
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 5530
+        width: 890
+        height: 550
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_29
+      rect:
+        serializedVersion: 2
+        x: 4010
+        y: 5518
+        width: 887
+        height: 562
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_30
+      rect:
+        serializedVersion: 2
+        x: 4970
+        y: 5530
+        width: 892
+        height: 551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_31
+      rect:
+        serializedVersion: 2
+        x: 5903
+        y: 5486
+        width: 903
+        height: 594
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_32
+      rect:
+        serializedVersion: 2
+        x: 6854
+        y: 5522
+        width: 912
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_33
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4798
+        width: 903
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_34
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 4810
+        width: 884
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_35
+      rect:
+        serializedVersion: 2
+        x: 1898
+        y: 4810
+        width: 918
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_36
+      rect:
+        serializedVersion: 2
+        x: 2938
+        y: 4814
+        width: 900
+        height: 552
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_37
+      rect:
+        serializedVersion: 2
+        x: 3918
+        y: 4822
+        width: 880
+        height: 544
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_38
+      rect:
+        serializedVersion: 2
+        x: 4846
+        y: 4768
+        width: 900
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_39
+      rect:
+        serializedVersion: 2
+        x: 5790
+        y: 4810
+        width: 930
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_40
+      rect:
+        serializedVersion: 2
+        x: 6766
+        y: 4815
+        width: 904
+        height: 551
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_41
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 4122
+        width: 932
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_42
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 4111
+        width: 916
+        height: 567
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_43
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 4111
+        width: 900
+        height: 567
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_44
+      rect:
+        serializedVersion: 2
+        x: 3040
+        y: 4110
+        width: 918
+        height: 568
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_45
+      rect:
+        serializedVersion: 2
+        x: 4074
+        y: 4128
+        width: 892
+        height: 550
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_46
+      rect:
+        serializedVersion: 2
+        x: 5014
+        y: 4122
+        width: 922
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_47
+      rect:
+        serializedVersion: 2
+        x: 6026
+        y: 4122
+        width: 912
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_48
+      rect:
+        serializedVersion: 2
+        x: 7066
+        y: 4122
+        width: 887
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_49
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 3422
+        width: 892
+        height: 563
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_50
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 3423
+        width: 892
+        height: 562
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_51
+      rect:
+        serializedVersion: 2
+        x: 2016
+        y: 3438
+        width: 896
+        height: 547
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_52
+      rect:
+        serializedVersion: 2
+        x: 2992
+        y: 3438
+        width: 898
+        height: 546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_53
+      rect:
+        serializedVersion: 2
+        x: 3936
+        y: 3423
+        width: 902
+        height: 559
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_54
+      rect:
+        serializedVersion: 2
+        x: 4910
+        y: 3410
+        width: 899
+        height: 575
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_55
+      rect:
+        serializedVersion: 2
+        x: 5910
+        y: 3406
+        width: 888
+        height: 579
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_56
+      rect:
+        serializedVersion: 2
+        x: 6910
+        y: 3408
+        width: 884
+        height: 577
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_57
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2688
+        width: 888
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_58
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 2694
+        width: 918
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_59
+      rect:
+        serializedVersion: 2
+        x: 1990
+        y: 2694
+        width: 922
+        height: 570
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_60
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 2698
+        width: 916
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_61
+      rect:
+        serializedVersion: 2
+        x: 4018
+        y: 2710
+        width: 912
+        height: 548
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_62
+      rect:
+        serializedVersion: 2
+        x: 5050
+        y: 2718
+        width: 902
+        height: 546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_63
+      rect:
+        serializedVersion: 2
+        x: 6050
+        y: 2718
+        width: 910
+        height: 546
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_64
+      rect:
+        serializedVersion: 2
+        x: 7022
+        y: 2710
+        width: 916
+        height: 554
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_65
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2006
+        width: 923
+        height: 556
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_66
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 2000
+        width: 912
+        height: 566
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_67
+      rect:
+        serializedVersion: 2
+        x: 1962
+        y: 1998
+        width: 904
+        height: 579
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_68
+      rect:
+        serializedVersion: 2
+        x: 2910
+        y: 1994
+        width: 899
+        height: 588
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_69
+      rect:
+        serializedVersion: 2
+        x: 3842
+        y: 1990
+        width: 895
+        height: 603
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_70
+      rect:
+        serializedVersion: 2
+        x: 4762
+        y: 1986
+        width: 886
+        height: 612
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_71
+      rect:
+        serializedVersion: 2
+        x: 5664
+        y: 1983
+        width: 881
+        height: 619
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_72
+      rect:
+        serializedVersion: 2
+        x: 6566
+        y: 1982
+        width: 860
+        height: 628
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_73
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1318
+        width: 852
+        height: 640
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Gun Barrel Fire_74
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 1318
+        width: 850
+        height: 651
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

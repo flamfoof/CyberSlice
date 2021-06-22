@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Power Up
+  - Enemy
+  - Out Zone
+  - Wall
+  - Bullet
+  - Invincible
+  - Lazer
+  - boss
+  - Ground
+  - realGround
+  - target
+  - Detector
+  - chip1
+  - chip2
+  - chip3
+  - chip4
+  - Background
+  - MasterController
+  - BirdDetector
+  - Fist
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Boss
+    uniqueID: 376671111
+    locked: 0

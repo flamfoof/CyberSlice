@@ -1,0 +1,2412 @@
+fileFormatVersion: 2
+guid: 7bd8148bfcc1945449fc0b0355a13e55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Mask Boss Float 2 Export_0
+  - first:
+      213: 21300002
+    second: Mask Boss Float 2 Export_1
+  - first:
+      213: 21300004
+    second: Mask Boss Float 2 Export_2
+  - first:
+      213: 21300006
+    second: Mask Boss Float 2 Export_3
+  - first:
+      213: 21300008
+    second: Mask Boss Float 2 Export_4
+  - first:
+      213: 21300010
+    second: Mask Boss Float 2 Export_5
+  - first:
+      213: 21300012
+    second: Mask Boss Float 2 Export_6
+  - first:
+      213: 21300014
+    second: Mask Boss Float 2 Export_7
+  - first:
+      213: 21300016
+    second: Mask Boss Float 2 Export_8
+  - first:
+      213: 21300018
+    second: Mask Boss Float 2 Export_9
+  - first:
+      213: 21300020
+    second: Mask Boss Float 2 Export_10
+  - first:
+      213: 21300022
+    second: Mask Boss Float 2 Export_11
+  - first:
+      213: 21300024
+    second: Mask Boss Float 2 Export_12
+  - first:
+      213: 21300026
+    second: Mask Boss Float 2 Export_13
+  - first:
+      213: 21300028
+    second: Mask Boss Float 2 Export_14
+  - first:
+      213: 21300030
+    second: Mask Boss Float 2 Export_15
+  - first:
+      213: 21300032
+    second: Mask Boss Float 2 Export_16
+  - first:
+      213: 21300034
+    second: Mask Boss Float 2 Export_17
+  - first:
+      213: 21300036
+    second: Mask Boss Float 2 Export_18
+  - first:
+      213: 21300038
+    second: Mask Boss Float 2 Export_19
+  - first:
+      213: 21300040
+    second: Mask Boss Float 2 Export_20
+  - first:
+      213: 21300042
+    second: Mask Boss Float 2 Export_21
+  - first:
+      213: 21300044
+    second: Mask Boss Float 2 Export_22
+  - first:
+      213: 21300046
+    second: Mask Boss Float 2 Export_23
+  - first:
+      213: 21300048
+    second: Mask Boss Float 2 Export_24
+  - first:
+      213: 21300050
+    second: Mask Boss Float 2 Export_25
+  - first:
+      213: 21300052
+    second: Mask Boss Float 2 Export_26
+  - first:
+      213: 21300054
+    second: Mask Boss Float 2 Export_27
+  - first:
+      213: 21300056
+    second: Mask Boss Float 2 Export_28
+  - first:
+      213: 21300058
+    second: Mask Boss Float 2 Export_29
+  - first:
+      213: 21300060
+    second: Mask Boss Float 2 Export_30
+  - first:
+      213: 21300062
+    second: Mask Boss Float 2 Export_31
+  - first:
+      213: 21300064
+    second: Mask Boss Float 2 Export_32
+  - first:
+      213: 21300066
+    second: Mask Boss Float 2 Export_33
+  - first:
+      213: 21300068
+    second: Mask Boss Float 2 Export_34
+  - first:
+      213: 21300070
+    second: Mask Boss Float 2 Export_35
+  - first:
+      213: 21300072
+    second: Mask Boss Float 2 Export_36
+  - first:
+      213: 21300074
+    second: Mask Boss Float 2 Export_37
+  - first:
+      213: 21300076
+    second: Mask Boss Float 2 Export_38
+  - first:
+      213: 21300078
+    second: Mask Boss Float 2 Export_39
+  - first:
+      213: 21300080
+    second: Mask Boss Float 2 Export_40
+  - first:
+      213: 21300082
+    second: Mask Boss Float 2 Export_41
+  - first:
+      213: 21300084
+    second: Mask Boss Float 2 Export_42
+  - first:
+      213: 21300086
+    second: Mask Boss Float 2 Export_43
+  - first:
+      213: 21300088
+    second: Mask Boss Float 2 Export_44
+  - first:
+      213: 21300090
+    second: Mask Boss Float 2 Export_45
+  - first:
+      213: 21300092
+    second: Mask Boss Float 2 Export_46
+  - first:
+      213: 21300094
+    second: Mask Boss Float 2 Export_47
+  - first:
+      213: 21300096
+    second: Mask Boss Float 2 Export_48
+  - first:
+      213: 21300098
+    second: Mask Boss Float 2 Export_49
+  - first:
+      213: 21300100
+    second: Mask Boss Float 2 Export_50
+  - first:
+      213: 21300102
+    second: Mask Boss Float 2 Export_51
+  - first:
+      213: 21300104
+    second: Mask Boss Float 2 Export_52
+  - first:
+      213: 21300106
+    second: Mask Boss Float 2 Export_53
+  - first:
+      213: 21300108
+    second: Mask Boss Float 2 Export_54
+  - first:
+      213: 21300110
+    second: Mask Boss Float 2 Export_55
+  - first:
+      213: 21300112
+    second: Mask Boss Float 2 Export_56
+  - first:
+      213: 21300114
+    second: Mask Boss Float 2 Export_57
+  - first:
+      213: 21300116
+    second: Mask Boss Float 2 Export_58
+  - first:
+      213: 21300118
+    second: Mask Boss Float 2 Export_59
+  - first:
+      213: 21300120
+    second: Mask Boss Float 2 Export_60
+  - first:
+      213: 21300122
+    second: Mask Boss Float 2 Export_61
+  - first:
+      213: 21300124
+    second: Mask Boss Float 2 Export_62
+  - first:
+      213: 21300126
+    second: Mask Boss Float 2 Export_63
+  - first:
+      213: 21300128
+    second: Mask Boss Float 2 Export_64
+  - first:
+      213: 21300130
+    second: Mask Boss Float 2 Export_65
+  - first:
+      213: 21300132
+    second: Mask Boss Float 2 Export_66
+  - first:
+      213: 21300134
+    second: Mask Boss Float 2 Export_67
+  - first:
+      213: 21300136
+    second: Mask Boss Float 2 Export_68
+  - first:
+      213: 21300138
+    second: Mask Boss Float 2 Export_69
+  - first:
+      213: 21300140
+    second: Mask Boss Float 2 Export_70
+  - first:
+      213: 21300142
+    second: Mask Boss Float 2 Export_71
+  - first:
+      213: 21300144
+    second: Mask Boss Float 2 Export_72
+  - first:
+      213: 21300146
+    second: Mask Boss Float 2 Export_73
+  - first:
+      213: 21300148
+    second: Mask Boss Float 2 Export_74
+  - first:
+      213: 21300150
+    second: Mask Boss Float 2 Export_75
+  - first:
+      213: 21300152
+    second: Mask Boss Float 2 Export_76
+  - first:
+      213: 21300154
+    second: Mask Boss Float 2 Export_77
+  - first:
+      213: 21300156
+    second: Mask Boss Float 2 Export_78
+  - first:
+      213: 21300158
+    second: Mask Boss Float 2 Export_79
+  - first:
+      213: 21300160
+    second: Mask Boss Float 2 Export_80
+  - first:
+      213: 21300162
+    second: Mask Boss Float 2 Export_81
+  - first:
+      213: 21300164
+    second: Mask Boss Float 2 Export_82
+  - first:
+      213: 21300166
+    second: Mask Boss Float 2 Export_83
+  - first:
+      213: 21300168
+    second: Mask Boss Float 2 Export_84
+  - first:
+      213: 21300170
+    second: Mask Boss Float 2 Export_85
+  - first:
+      213: 21300172
+    second: Mask Boss Float 2 Export_86
+  - first:
+      213: 21300174
+    second: Mask Boss Float 2 Export_87
+  - first:
+      213: 21300176
+    second: Mask Boss Float 2 Export_88
+  - first:
+      213: 21300178
+    second: Mask Boss Float 2 Export_89
+  - first:
+      213: 21300180
+    second: Mask Boss Float 2 Export_90
+  - first:
+      213: 21300182
+    second: Mask Boss Float 2 Export_91
+  - first:
+      213: 21300184
+    second: Mask Boss Float 2 Export_92
+  - first:
+      213: 21300186
+    second: Mask Boss Float 2 Export_93
+  - first:
+      213: 21300188
+    second: Mask Boss Float 2 Export_94
+  - first:
+      213: 21300190
+    second: Mask Boss Float 2 Export_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6400
+        width: 733
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02305410000000000800000000000000
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_1
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 6407
+        width: 738
+        height: 793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22305410000000000800000000000000
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_2
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 6405
+        width: 742
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42305410000000000800000000000000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_3
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 6400
+        width: 739
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62305410000000000800000000000000
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_4
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 6400
+        width: 736
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82305410000000000800000000000000
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_5
+      rect:
+        serializedVersion: 2
+        x: 3688
+        y: 6407
+        width: 742
+        height: 793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2305410000000000800000000000000
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_6
+      rect:
+        serializedVersion: 2
+        x: 4430
+        y: 6400
+        width: 737
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2305410000000000800000000000000
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_7
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 6400
+        width: 742
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2305410000000000800000000000000
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_8
+      rect:
+        serializedVersion: 2
+        x: 5907
+        y: 6404
+        width: 744
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03305410000000000800000000000000
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_9
+      rect:
+        serializedVersion: 2
+        x: 6647
+        y: 6400
+        width: 740
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23305410000000000800000000000000
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_10
+      rect:
+        serializedVersion: 2
+        x: 7387
+        y: 6402
+        width: 742
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43305410000000000800000000000000
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_11
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 5607
+        width: 732
+        height: 793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63305410000000000800000000000000
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_12
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 5607
+        width: 734
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83305410000000000800000000000000
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_13
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 5607
+        width: 735
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3305410000000000800000000000000
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_14
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 5607
+        width: 733
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3305410000000000800000000000000
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_15
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 5604
+        width: 740
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 1, z: 6, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3305410000000000800000000000000
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_16
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 5600
+        width: 735
+        height: 811
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 7, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04305410000000000800000000000000
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_17
+      rect:
+        serializedVersion: 2
+        x: 4434
+        y: 5608
+        width: 735
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24305410000000000800000000000000
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_18
+      rect:
+        serializedVersion: 2
+        x: 5173
+        y: 5606
+        width: 736
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44305410000000000800000000000000
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_19
+      rect:
+        serializedVersion: 2
+        x: 5912
+        y: 5604
+        width: 734
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64305410000000000800000000000000
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_20
+      rect:
+        serializedVersion: 2
+        x: 6651
+        y: 5606
+        width: 734
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 4, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84305410000000000800000000000000
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_21
+      rect:
+        serializedVersion: 2
+        x: 7390
+        y: 5602
+        width: 740
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 6, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4305410000000000800000000000000
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4808
+        width: 735
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4305410000000000800000000000000
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_23
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 4808
+        width: 734
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4305410000000000800000000000000
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_24
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 4800
+        width: 733
+        height: 807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 7, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05305410000000000800000000000000
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_25
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 4808
+        width: 740
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25305410000000000800000000000000
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_26
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 4807
+        width: 733
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45305410000000000800000000000000
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_27
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 4800
+        width: 733
+        height: 805
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 11, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65305410000000000800000000000000
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_28
+      rect:
+        serializedVersion: 2
+        x: 4434
+        y: 4808
+        width: 742
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 6, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85305410000000000800000000000000
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_29
+      rect:
+        serializedVersion: 2
+        x: 5173
+        y: 4800
+        width: 735
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 11, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5305410000000000800000000000000
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_30
+      rect:
+        serializedVersion: 2
+        x: 5912
+        y: 4808
+        width: 735
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5305410000000000800000000000000
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_31
+      rect:
+        serializedVersion: 2
+        x: 6651
+        y: 4805
+        width: 734
+        height: 801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 7, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5305410000000000800000000000000
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_32
+      rect:
+        serializedVersion: 2
+        x: 7390
+        y: 4805
+        width: 741
+        height: 801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06305410000000000800000000000000
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4010
+        width: 733
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26305410000000000800000000000000
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_34
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 4010
+        width: 737
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46305410000000000800000000000000
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_35
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 4009
+        width: 739
+        height: 801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 5, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66305410000000000800000000000000
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_36
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 4009
+        width: 737
+        height: 801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 5, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86305410000000000800000000000000
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_37
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 4011
+        width: 735
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6305410000000000800000000000000
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_38
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 4010
+        width: 736
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6305410000000000800000000000000
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_39
+      rect:
+        serializedVersion: 2
+        x: 4434
+        y: 4011
+        width: 740
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 4, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6305410000000000800000000000000
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_40
+      rect:
+        serializedVersion: 2
+        x: 5173
+        y: 4011
+        width: 734
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 8, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07305410000000000800000000000000
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_41
+      rect:
+        serializedVersion: 2
+        x: 5908
+        y: 4009
+        width: 743
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 3, z: 5, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27305410000000000800000000000000
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_42
+      rect:
+        serializedVersion: 2
+        x: 6648
+        y: 4015
+        width: 736
+        height: 793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47305410000000000800000000000000
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_43
+      rect:
+        serializedVersion: 2
+        x: 7390
+        y: 4007
+        width: 732
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67305410000000000800000000000000
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3211
+        width: 740
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 6, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87305410000000000800000000000000
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_45
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 3210
+        width: 735
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 5, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7305410000000000800000000000000
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_46
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 3213
+        width: 741
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 6, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7305410000000000800000000000000
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_47
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 3213
+        width: 737
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7305410000000000800000000000000
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_48
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 3211
+        width: 740
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 5, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08305410000000000800000000000000
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_49
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 3208
+        width: 734
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28305410000000000800000000000000
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_50
+      rect:
+        serializedVersion: 2
+        x: 4434
+        y: 3210
+        width: 737
+        height: 801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 5, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48305410000000000800000000000000
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_51
+      rect:
+        serializedVersion: 2
+        x: 5173
+        y: 3212
+        width: 740
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68305410000000000800000000000000
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_52
+      rect:
+        serializedVersion: 2
+        x: 5912
+        y: 3213
+        width: 736
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88305410000000000800000000000000
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_53
+      rect:
+        serializedVersion: 2
+        x: 6651
+        y: 3214
+        width: 735
+        height: 793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 1, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8305410000000000800000000000000
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_54
+      rect:
+        serializedVersion: 2
+        x: 7387
+        y: 3211
+        width: 740
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8305410000000000800000000000000
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2413
+        width: 735
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8305410000000000800000000000000
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_56
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 2417
+        width: 735
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 16, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09305410000000000800000000000000
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_57
+      rect:
+        serializedVersion: 2
+        x: 1478
+        y: 2414
+        width: 740
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29305410000000000800000000000000
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_58
+      rect:
+        serializedVersion: 2
+        x: 2217
+        y: 2411
+        width: 737
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 17, z: 4, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49305410000000000800000000000000
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_59
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 2417
+        width: 740
+        height: 793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 5, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69305410000000000800000000000000
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_60
+      rect:
+        serializedVersion: 2
+        x: 3695
+        y: 2413
+        width: 740
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 4, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89305410000000000800000000000000
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_61
+      rect:
+        serializedVersion: 2
+        x: 4434
+        y: 2415
+        width: 733
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9305410000000000800000000000000
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_62
+      rect:
+        serializedVersion: 2
+        x: 5173
+        y: 2409
+        width: 737
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 5, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9305410000000000800000000000000
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_63
+      rect:
+        serializedVersion: 2
+        x: 5912
+        y: 2413
+        width: 734
+        height: 801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9305410000000000800000000000000
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_64
+      rect:
+        serializedVersion: 2
+        x: 6651
+        y: 2417
+        width: 736
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a305410000000000800000000000000
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_65
+      rect:
+        serializedVersion: 2
+        x: 7390
+        y: 2416
+        width: 740
+        height: 795
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a305410000000000800000000000000
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1614
+        width: 736
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a305410000000000800000000000000
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_67
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 1620
+        width: 740
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 5, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a305410000000000800000000000000
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_68
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1621
+        width: 734
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a305410000000000800000000000000
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_69
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 1620
+        width: 738
+        height: 793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa305410000000000800000000000000
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_70
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 1614
+        width: 740
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca305410000000000800000000000000
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_71
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 1615
+        width: 737
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea305410000000000800000000000000
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_72
+      rect:
+        serializedVersion: 2
+        x: 4431
+        y: 1616
+        width: 743
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b305410000000000800000000000000
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_73
+      rect:
+        serializedVersion: 2
+        x: 5173
+        y: 1619
+        width: 734
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b305410000000000800000000000000
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_74
+      rect:
+        serializedVersion: 2
+        x: 5906
+        y: 1618
+        width: 742
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b305410000000000800000000000000
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_75
+      rect:
+        serializedVersion: 2
+        x: 6651
+        y: 1620
+        width: 738
+        height: 792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b305410000000000800000000000000
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_76
+      rect:
+        serializedVersion: 2
+        x: 7390
+        y: 1614
+        width: 740
+        height: 804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b305410000000000800000000000000
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 817
+        width: 734
+        height: 797
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab305410000000000800000000000000
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_78
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 818
+        width: 734
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb305410000000000800000000000000
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_79
+      rect:
+        serializedVersion: 2
+        x: 1473
+        y: 814
+        width: 741
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 4, z: 7, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb305410000000000800000000000000
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_80
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 816
+        width: 745
+        height: 801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c305410000000000800000000000000
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_81
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 818
+        width: 736
+        height: 794
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c305410000000000800000000000000
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_82
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 819
+        width: 736
+        height: 796
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c305410000000000800000000000000
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_83
+      rect:
+        serializedVersion: 2
+        x: 4434
+        y: 815
+        width: 737
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c305410000000000800000000000000
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_84
+      rect:
+        serializedVersion: 2
+        x: 5174
+        y: 817
+        width: 741
+        height: 802
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c305410000000000800000000000000
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_85
+      rect:
+        serializedVersion: 2
+        x: 5912
+        y: 818
+        width: 735
+        height: 799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac305410000000000800000000000000
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_86
+      rect:
+        serializedVersion: 2
+        x: 6651
+        y: 824
+        width: 734
+        height: 791
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc305410000000000800000000000000
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_87
+      rect:
+        serializedVersion: 2
+        x: 7390
+        y: 813
+        width: 740
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec305410000000000800000000000000
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 734
+        height: 816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d305410000000000800000000000000
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_89
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 0
+        width: 740
+        height: 817
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d305410000000000800000000000000
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_90
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 0
+        width: 737
+        height: 800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d305410000000000800000000000000
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_91
+      rect:
+        serializedVersion: 2
+        x: 2215
+        y: 0
+        width: 737
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d305410000000000800000000000000
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_92
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 0
+        width: 733
+        height: 818
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d305410000000000800000000000000
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_93
+      rect:
+        serializedVersion: 2
+        x: 3691
+        y: 0
+        width: 740
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad305410000000000800000000000000
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_94
+      rect:
+        serializedVersion: 2
+        x: 4432
+        y: 0
+        width: 742
+        height: 820
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 3, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd305410000000000800000000000000
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mask Boss Float 2 Export_95
+      rect:
+        serializedVersion: 2
+        x: 5170
+        y: 1
+        width: 739
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed305410000000000800000000000000
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

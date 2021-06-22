@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 885426986fec61f49a2d8270d19fae4c
+timeCreated: 1524665591
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - gameController: {instanceID: 0}
+  - powerupSFX: {fileID: 8300000, guid: 90d2e7f1c2b325143ba52db03dee1221, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

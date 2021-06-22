@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: f2120dff02b5d2949a4ac2fdb43c0357
+  - enabled: 1
+    path: Assets/Scenes/TestScene.unity
+    guid: 5578febeb36b06344a1a185f582871fa
+  - enabled: 1
+    path: Assets/Scenes/Retry.unity
+    guid: dcd2686475af49d4c92fa0ddee498891
+  - enabled: 1
+    path: Assets/Scenes/boss2Test.unity
+    guid: 85976e94b3fc7944498229e265656924
+  - enabled: 0
+    path: Assets/Scenes/DontUsePrototype.unity
+    guid: 3cfeae03f2755ad4a8004a10a2204ce5
+  - enabled: 1
+    path: Assets/Scenes/boss2Test.unity
+    guid: 85976e94b3fc7944498229e265656924
+  - enabled: 1
+    path: Assets/Scenes/SecretWin.unity
+    guid: d1ec37aac503b8f4d83d1461e0f83559

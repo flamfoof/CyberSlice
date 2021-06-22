@@ -1,0 +1,392 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1629742812896058}
+  m_IsPrefabParent: 1
+--- !u!1 &1629742812896058
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4113739061021436}
+  - component: {fileID: 114017985608152808}
+  - component: {fileID: 114470327588597350}
+  - component: {fileID: 114320938773661146}
+  - component: {fileID: 114017808771818696}
+  - component: {fileID: 114828914382731672}
+  - component: {fileID: 114836645491434572}
+  - component: {fileID: 82021509873456266}
+  - component: {fileID: 114276989836102744}
+  - component: {fileID: 114894455774276246}
+  m_Layer: 0
+  m_Name: GameController
+  m_TagString: MasterController
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4113739061021436
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1629742812896058}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &82021509873456266
+AudioSource:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1629742812896058}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 0}
+  m_PlayOnAwake: 1
+  m_Volume: 1
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+--- !u!114 &114017808771818696
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1629742812896058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9995093c63f395744b198cea719b8737, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  foregrounds:
+  - {fileID: 1344901418547796, guid: 6637fe81216fa5a4390aa4193dd29ad7, type: 2}
+  - {fileID: 1381420062487276, guid: 76fec56a4dfde854e841b11cc26484c4, type: 2}
+  backgrounds:
+  - {fileID: 1811916158729322, guid: 8e3ba3f88876b7d4da54b5812fa3dec8, type: 2}
+  - {fileID: 1202172832135056, guid: 97a9c877e5fc54b4680d7bfb89f04994, type: 2}
+  reactorForeground: {fileID: 1824033910357006, guid: 02ebd747c71f96444be6c2aba411e4d2,
+    type: 2}
+  reactorMidGround: {fileID: 1086393495741066, guid: 6f1b348d8e4f8e5409eb9a177b63d964,
+    type: 2}
+  reactorBackground1: {fileID: 1020726840773740, guid: 55c0e6f297dab66428f399a1ac96961c,
+    type: 2}
+  reactorBackground2: {fileID: 1427357081239058, guid: d3a7c9685077d36468fa24d3a6eed8ff,
+    type: 2}
+  reactorBackground3: {fileID: 1109043146509498, guid: 04fd787fbc362a0489a8f562c55782c2,
+    type: 2}
+  numOfBackgroundObjectsBeforePlay: 3
+  timeTillNextSpawn: 1
+  origTimeTillNextSpawn: 0
+  player: {fileID: 0}
+  spawnSecondLevel: 0
+--- !u!114 &114017985608152808
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1629742812896058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 75be508159ceb514ea8a9e1bf7c413a7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  difficultyLevel: 1
+  secondsBeforeDifficultyIncrease: 15
+  difficultyScale: 2
+  speedModifier: 1.1
+  speedMaxModifier: 2
+  speedModifierRateChange: 0.12
+  adminMode: 0
+  floorTile: {fileID: 1355057731412768, guid: 17cf271c33c7718428119f5a7ba196cb, type: 2}
+  ceilingTile: {fileID: 1355057731412768, guid: 17cf271c33c7718428119f5a7ba196cb,
+    type: 2}
+  startingXForFutureChunks: 40
+  piecesToSpawnEachChunk: 4
+  waitToSpawnNextChunk: 1
+  waitToSpawnNextObstacles: 10
+  xLengthOfTile: 5
+  frequency: 0.2
+  frequencyMultiplier: 0.9
+  frequencyHardcap: 0.05
+  totalObjectsPerChunk: 15
+  distTillNextSpawn: 0
+  bossItemDropSpawnRate: 300
+  enemySpawnTime: 4
+  percentEnemy: 0
+  percentBird: 0.1
+  percentWall: 0.6
+  percentPowerUp: 0.3
+  percentInvincibility: 0.1
+  enemy: {fileID: 1737744030701730, guid: 12b41f2d290999942aaa443c67337d0f, type: 2}
+  bird: {fileID: 1788623815271984, guid: 94b279825721c6f4cb8e8780ed7cbf39, type: 2}
+  powerUp: {fileID: 0}
+  invincibility: {fileID: 0}
+  wall: {fileID: 1318637132123414, guid: a3283adc69aa2684a8c6417578888629, type: 2}
+  lanternSprite: {fileID: 21300000, guid: 13c280d0179619348a1cf6fedfdf169a, type: 3}
+  barrelSprite: {fileID: 21300000, guid: abe0da883cc6d7644ba0370017d13a6f, type: 3}
+  spawner: {fileID: 0}
+  mainCamera: {fileID: 0}
+  mainCameraMove: {fileID: 114320938773661146}
+  bgSpawner: {fileID: 114017808771818696}
+  bossIsActive: 0
+  firstBoss: 1
+  currentBoss: 0
+  boss:
+  - {fileID: 0}
+  - {fileID: 0}
+  bossGauge: 50
+  startingBoss1Pos: {fileID: 0}
+  endingBoss1Pos: {fileID: 0}
+  currentBossGauge: 0
+  clearboard: {fileID: 0}
+  delayToSpawnObstacles: 4
+  bossEmergenceTime: 3
+  clearAllObstacles: {fileID: 0}
+  boss1Shot: 0
+  score: {fileID: 114828914382731672}
+  progressBar: {fileID: 0}
+  boss1SliderImage: {fileID: 0}
+  boss2SliderImage: {fileID: 0}
+  bossHitSFX: {fileID: 0}
+  bosslaughSFX: {fileID: 8300000, guid: ff8e8d1246296214d8b9b96c2445dc11, type: 3}
+  enemygruntSFX: {fileID: 0}
+--- !u!114 &114276989836102744
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1629742812896058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 06f13a119a86d254a837e61a61bed251, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  musicAudio: {fileID: 0}
+  sfxAudio: {fileID: 82021509873456266}
+--- !u!114 &114320938773661146
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1629742812896058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f13d1f54103998468ac02fb22de033f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  mainCamera: {fileID: 0}
+  cameraSpeed: 10
+  playerDead: 0
+--- !u!114 &114470327588597350
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1629742812896058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de482b338dfc41b4dbe8ec28c2f83a34, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerGO: {fileID: 0}
+  playerJumpSpeed: 12.5
+  isFalling: 0
+  pauseControl: {fileID: 0}
+  playerProjectile: {fileID: 50403414539780454, guid: 94cca074109e4834799687eab686ffd8,
+    type: 2}
+  projectileSpeed: 30
+  projectileCount: 0
+  ammoCount: {fileID: 0}
+  playerSword: {fileID: 0}
+  playerAirSlice: {fileID: 0}
+  lengthOfSwordSwingInSeconds: 0.5
+  coolDownTimeInSeconds: 0.25
+  mainCamera: {fileID: 0}
+  PlayerRecoverFromWallspeed: 1
+  playerState: 0
+  invincibilityTime: 3
+  ninjastarSFX: {fileID: 8300000, guid: b1ac118070959eb44a6f3d4944bc3cb6, type: 3}
+  jumpSFX: {fileID: 8300000, guid: 44fa8704679358b4fbf5fb761453fb03, type: 3}
+  swordswingSFX: {fileID: 8300000, guid: 5152cc12715717d45aff81b3cefddaee, type: 3}
+  isDead: 0
+  isHit: 0
+  numberOfInvincibleFlashes: 3
+  alphaDepth: 0.6
+  animator: {fileID: 0}
+  invincibilityGlow: {fileID: 0}
+--- !u!114 &114828914382731672
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1629742812896058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81821cb21bd0a134cba5a5f75c5d7ad7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  PlayerScoreText: {fileID: 0}
+  PlayerScore: 0
+  PointsForEnemyKill: 50
+  playerIsDead: 0
+--- !u!114 &114836645491434572
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1629742812896058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc0bd945bca68c84ba99bebffa4b4aae, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bossGauge: {fileID: 0}
+--- !u!114 &114894455774276246
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1629742812896058}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f21769328753bc949b197f60854ba0ba, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  destroyAfterScene: 0
+  useRaw: 0
+  OnUpturn:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+  OnDownturn:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+  OnFlexEnter:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 114470327588597350}
+        m_MethodName: LimbitlessControllerJump
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 1
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+  OnFlexExit:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 114470327588597350}
+        m_MethodName: LimbitlessControllerJumpOff
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+  OnRestEnter:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+  OnRestExit:
+    m_PersistentCalls:
+      m_Calls: []
+    m_TypeName: UnityEngine.Events.UnityEvent, UnityEngine, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
+  isReadingUpwards: 0
+  isFlexing: 0
+  isResting: 1
